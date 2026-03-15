@@ -7,7 +7,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red)
 
----
+--
 
 ## Screenshots
 
